@@ -1,0 +1,56 @@
+.main-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+  
+  }
+  .container {
+    margin-top: 30px;
+    align-items: center;
+    position: relative;
+    max-width: 900px; 
+  }
+
+  .content {
+    position: absolute;
+    bottom: 25px;
+    text-align: center;
+    background: rgb(104, 100, 100);
+    color: #f1eded;
+    width: 100%;
+  }
+  
+  .title {
+    position: absolute;
+    text-align: center;
+    top: 0;
+    background: rgb(104, 100, 100);
+    color: #f1eded;
+    width: 25%;
+  
+  }
+  
+  .block {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  
+  }
+
+  .btn {
+    cursor: pointer;
+  }
+  
+  .block_btn {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .img {
+   display: block;
+    border: none;
+    width: 50%;
+  }
+  
+ 
